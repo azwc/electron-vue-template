@@ -6,12 +6,12 @@ electron + vue + webpack5
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Development
 ```
 yarn electron:serve
 ```
 
-### Compiles and minifies for production
+### Production
 ```
 yarn electron:build
 ```
